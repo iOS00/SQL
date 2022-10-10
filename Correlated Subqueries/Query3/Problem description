@@ -1,0 +1,7 @@
+The standard cost of a product and the unit price at which it is sold determine its profitability. You must use correlated subqueries to compare the cost and average 
+selling price for each product.
+
+    Retrieve the cost, list price, and average selling price for each product
+        Retrieve the product ID, name, cost, and list price for each product along with the average unit price for which that product has been sold.
+        
+  NB Source https://microsoftlearning.github.io/dp-080-Transact-SQL/Instructions/Labs/03b-subqueries.html
