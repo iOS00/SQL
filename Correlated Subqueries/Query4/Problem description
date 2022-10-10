@@ -1,0 +1,6 @@
+The standard cost of a product and the unit price at which it is sold determine its profitability. You must use correlated subqueries to compare the cost and 
+average selling price for each product.
+Retrieve products that have an average selling price that is lower than the cost. 
+•	Filter your previous query to include only products where the cost price is higher than the average selling price.
+
+Source: https://microsoftlearning.github.io/dp-080-Transact-SQL/Instructions/Labs/03b-subqueries.html
