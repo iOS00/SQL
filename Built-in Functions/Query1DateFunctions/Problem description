@@ -1,0 +1,11 @@
+The operations manager wants reports about order shipping based on data in the SalesLT.SalesOrderHeader table.
+
+    Retrieve the order ID and freight cost of each order.
+        Write a query to return the order ID for each order, together with the the Freight value rounded to two decimal places in a column named FreightCost.
+    Add the shipping method.
+        Extend your query to include a column named ShippingMethod that contains the ShipMethod field, formatted in lower case.
+    Add shipping date details.
+        Extend your query to include columns named ShipYear, ShipMonth, and ShipDay that contain the year, month, and day of the ShipDate. 
+        The ShipMonth value should be displayed as the month name (for example, June)
+        
+Source: https://learn.microsoft.com/en-us/training/courses/dp-080t00?source=learn
